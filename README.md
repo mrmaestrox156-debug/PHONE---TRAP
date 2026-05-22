@@ -1,7 +1,7 @@
 PHONE-TRAP
 Minimalist telecom intelligence and dynamic OSINT routing tool for terminal environments.
 
-https://i.postimg.cc/cHyXnPMy/Novo-projeto-0AFD310.png
+![PHONE-TRAP Interface](https://i.postimg.cc/cHyXnPMy/Novo-projeto-0AFD310.png)
 
 FEATURES
 - Preliminary automated string sanitation for space, hyphen, and country-code variations.
